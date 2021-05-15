@@ -6,18 +6,14 @@ class User{
     final String name;
     final String email;
     final String avatarUrl;
-
-  
-
+//dsada
 
 const User({
   this.id,
   @required this.name,
   @required this.email,  
   @required this.avatarUrl,
-
-  //comentario de teste2
- 
+  
 
 });
 }

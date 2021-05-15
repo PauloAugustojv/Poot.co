@@ -1,3 +1,4 @@
 class User{
-    final 
+    final String id;
+    final String email;
 }

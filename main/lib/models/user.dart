@@ -16,7 +16,7 @@ const User({
   @required this.email,  
   @required this.avatarUrl,
 
-  //comentario de teste
+  //comentario de teste2
  
 
 });

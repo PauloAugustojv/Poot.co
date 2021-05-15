@@ -15,6 +15,8 @@ const User({
   @required this.name,
   @required this.email,  
   @required this.avatarUrl,
+
+  //comentario de teste
  
 
 });
